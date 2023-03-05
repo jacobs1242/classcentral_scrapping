@@ -1,0 +1,385 @@
+,page link text,page url
+0,Class Central,/
+1,Rankings,/rankings
+2,Collections,/collections
+3,View all,/subjects
+4,Computer Science,/subject/cs
+5,Health & Medicine,/subject/health
+6,Mathematics,/subject/maths
+7,Business,/subject/business
+8,Humanities,/subject/humanities
+9,Engineering,/subject/engineering
+10,Science,/subject/science
+11,Education & Teaching,/subject/education
+12,Social Sciences,/subject/social-sciences
+13,Art & Design,/subject/art-and-design
+14,Data Science,/subject/data-science
+15,Programming,/subject/programming-and-software-development
+16,Personal Development,/subject/personal-development
+17,Information Security (InfoSec),/subject/infosec
+18,View all Subjects,/subjects
+19,Universities,/universities
+20,The Report,/report/
+21,1000+ universities,/universities
+22,,/collection/top-free-online-courses
+23,,https://www.classcentral.com/report/most-popular-online-courses/
+24,Best of All Time,/collection/top-free-online-courses
+25,Best of the Year 2022,https://www.classcentral.com/report/best-free-online-courses-2022/
+26,Best of the Year 2021,https://www.classcentral.com/report/best-free-online-courses-2021/
+27,Most Popular of All Time,https://www.classcentral.com/report/most-popular-online-courses/
+28,Most Popular of the Year 2022,https://www.classcentral.com/report/most-popular-courses-2022/
+29,Most Popular of the Year 2021,https://www.classcentral.com/report/100-most-popular-online-courses-2021/
+30,,/collection/ivy-league-moocs
+31,,https://www.classcentral.com/report/coursera-free-online-courses/
+32,,https://www.classcentral.com/report/free-certificates/
+33,,https://www.classcentral.com/report/free-google-certifications/
+34,Starting this Month,/starting-this-month
+35,New Online Courses,/new-online-courses
+36,Most Popular,/most-popular-courses
+37,Artificial Intelligence,/subject/ai
+38,Algorithms and Data Structures,/subject/algorithms-and-data-structures
+39,Internet of Things,/subject/internet-of-things
+40,Information Technology,/subject/information-technology
+41,Computer Networking,/subject/computer-networking
+42,Machine Learning,/subject/machine-learning
+43,DevOps,/subject/devops
+44,Deep Learning,/subject/deep-learning
+45,Cryptography,/subject/cryptography
+46,Quantum Computing,/subject/quantum-computing
+47,Human-Computer Interaction (HCI),/subject/hci
+48,Distributed Systems,/subject/distributed-systems
+49,Blockchain Development,/subject/blockchain
+50,Operating Systems,/subject/operating-systems
+51,Computer Graphics,/subject/computer-graphics
+52,View all Computer Science,/subject/cs
+53,Nutrition & Wellness,/subject/nutrition-and-wellness
+54,Disease & Disorders,/subject/disease-and-disorders
+55,Public Health,/subject/public-health
+56,Health Care,/subject/health-care
+57,Nursing,/subject/nursing
+58,Anatomy,/subject/anatomy
+59,Veterinary Science,/subject/veterinary-science
+60,Continuing Medical Education (CME),/subject/cme
+61,View all Health & Medicine,/subject/health
+62,Statistics & Probability,/subject/statistics
+63,Foundations of Mathematics,/subject/foundations-of-mathematics
+64,Calculus,/subject/calculus
+65,Discrete Mathematics,/subject/discrete-mathematics
+66,Trigonometry,/subject/trigonometry
+67,Geometry,/subject/geometry
+68,Algebra,/subject/algebra
+69,Precalculus,/subject/precalculus
+70,Number Theory,/subject/number-theory
+71,Combinatorics,/subject/combinatorics
+72,Mathematical logic,/subject/mathematical-logic
+73,Linear Programming,/subject/linear-programming
+74,View all Mathematics,/subject/maths
+75,Management & Leadership,/subject/management-and-leadership
+76,Finance,/subject/finance
+77,Entrepreneurship,/subject/entrepreneurship
+78,Marketing,/subject/marketing
+79,Strategic Management,/subject/strategic-management
+80,Industry Specific,/subject/industry-specific
+81,Business Intelligence,/subject/business-intelligence
+82,Accounting,/subject/accounting
+83,Human Resources,/subject/human-resources
+84,Project Management,/subject/project-management
+85,Sales,/subject/sales
+86,Design Thinking,/subject/design-thinking
+87,Business Software,/subject/business-software
+88,Risk Management,/subject/risk-management
+89,Corporate Social Responsibility,/subject/csr
+90,Customer Service,/subject/customer-service
+91,Nonprofit Management,/subject/nonprofit
+92,Innovation,/subject/innovation
+93,Operations Management,/subject/operations-management
+94,View all Business,/subject/business
+95,History,/subject/history
+96,Literature,/subject/literature
+97,Language Learning,/subject/language-learning
+98,Grammar & Writing,/subject/grammar-writing
+99,Philosophy,/subject/philosophy
+100,Religion,/subject/religion
+101,ESL,/subject/esl
+102,Culture,/subject/culture
+103,Sports,/subject/sports
+104,Journalism,/subject/journalism
+105,Ethics,/subject/ethics
+106,Linguistics,/subject/linguistics
+107,Food,/subject/food
+108,Library Science,/subject/library-science
+109,Reading,/subject/reading
+110,Crisis Management,/subject/crisis-management
+111,View all Humanities,/subject/humanities
+112,Electrical Engineering,/subject/electrical-engineering
+113,Mechanical Engineering,/subject/mechanical-engineering
+114,Civil Engineering,/subject/civil-engineering
+115,Robotics,/subject/robotics
+116,Nanotechnology,/subject/nanotechnology
+117,GIS,/subject/gis
+118,Textiles,/subject/textiles
+119,Manufacturing,/subject/manufacturing
+120,BIM,/subject/bim
+121,CAD,/subject/cad
+122,Chemical Engineering,/subject/chemical-engineering
+123,Energy Systems,/subject/energy-systems
+124,Aerospace Engineering,/subject/aerospace-engineering
+125,View all Engineering,/subject/engineering
+126,Chemistry,/subject/chemistry
+127,Physics,/subject/physics
+128,Environmental Science,/subject/environmental-science
+129,Astronomy,/subject/astronomy
+130,Biology,/subject/biology
+131,Agriculture,/subject/agriculture
+132,Materials Science,/subject/materials-science
+133,Earth Science,/subject/earth-science
+134,Applied Science,/subject/applied-science
+135,Forensic Science,/subject/forensic-science
+136,View all Science,/subject/science
+137,K12,/subject/k12
+138,Higher Education,/subject/higher-education
+139,STEM,/subject/stem
+140,Teacher Professional Development,/subject/teacher-development
+141,Course Development,/subject/course-development
+142,Online Education,/subject/online-education
+143,Test Prep,/subject/test-prep
+144,Pedagogy,/subject/pedagogy
+145,View all Education & Teaching,/subject/education
+146,Sociology,/subject/sociology
+147,Economics,/subject/economics
+148,Psychology,/subject/psychology
+149,Anthropology,/subject/anthropology
+150,Political Science,/subject/political-science
+151,Law,/subject/law
+152,Urban Planning,/subject/urban-planning
+153,Human Rights,/subject/human-rights
+154,Sustainability,/subject/sustainability
+155,Governance,/subject/governance
+156,Archaeology,/subject/archaeology
+157,Social Work,/subject/social-work
+158,View all Social Sciences,/subject/social-sciences
+159,Music,/subject/music
+160,Digital Media,/subject/digital-media
+161,Visual Arts,/subject/visual-arts
+162,Design & Creativity,/subject/design-and-creativity
+163,View all Art & Design,/subject/art-and-design
+164,Bioinformatics,/subject/bioinformatics
+165,Big Data,/subject/big-data
+166,Data Mining,/subject/data-mining
+167,Data Analysis,/subject/data-analysis
+168,Data Visualization,/subject/data-visualization
+169,Jupyter Notebooks,/subject/jupyter
+170,View all Data Science,/subject/data-science
+171,Mobile Development,/subject/mobile-development
+172,Web Development,/subject/web-development
+173,Databases,/subject/databases
+174,Game Development,/subject/game-development
+175,Programming Languages,/subject/programming-languages
+176,Software Development,/subject/software-development
+177,Cloud Computing,/subject/cloud-computing
+178,View all Programming,/subject/programming-and-software-development
+179,Communication Skills,/subject/communication-skills
+180,Career Development,/subject/career-development
+181,Self Improvement,/subject/self-improvement
+182,Presentation Skills,/subject/presentation-skills
+183,Resilience,/subject/resilience
+184,View all Personal Development,/subject/personal-development
+185,Cybersecurity,/subject/cybersecurity
+186,Network Security,/subject/network-security
+187,Ethical Hacking,/subject/ethical-hacking
+188,Digital Forensics,/subject/digital-forensics
+189,Reverse Engineering,/subject/reverse-engineering
+190,Penetration Testing,/subject/pentesting
+191,Malware Analysis,/subject/malware-analysis
+192,DevSecOps,/subject/devsecops
+193,OSINT (Open Source Intelligence),/subject/osint
+194,Threat Intelligence,/subject/threat-intelligence
+195,Information Security Certifications,/subject/infosec-certifications
+196,Red Team,/subject/red-team
+197,Blue Team,/subject/blue-team
+198,View all Information Security (InfoSec),/subject/infosec
+199,The Report,https://www.classcentral.com/report/
+200,,https://www.classcentral.com/report/2022-year-in-review/
+201,2022 Year in Review: The “New Normal” that Wasn’t,https://www.classcentral.com/report/2022-year-in-review/
+202,Dhawal Shah,https://www.classcentral.com/report/author/dhawal/
+203,"Review of Goldman Sachs 10,000 Women Courses",https://www.classcentral.com/report/review-goldman-sachs-10000-women/
+204,10 Best Japanese Courses to Take in 2023,https://www.classcentral.com/report/best-japanese-courses/
+205,7 Best Erlang Courses to Take in 2023,https://www.classcentral.com/report/best-erlang-courses/
+206,Harvard CS50 Guide: How to Pick the Right Course (with Free Certificate),https://www.classcentral.com/report/harvard-cs50-guide/
+207,10 Best CSS Animation Courses to Take in 2023,https://www.classcentral.com/report/best-css-animation-courses/
+208,"Visit
+      The Report",/report/
+209,Lists Showcase,/lists
+210,Sign up,/signup
+211,Log in,/login
+212,Sign up,/signup
+213,Log in,/login
+214,Sign up,/signup
+215,"700+ Free Google Certifications
+ Trending",https://www.classcentral.com/report/free-google-certifications/
+216,"Digital Skills
+209 courses",/subject/digital-skills
+217,"Digital Marketing
+3,881 courses",/subject/digital-marketing
+218,"Information Technology (IT) Certifications
+504 courses",/subject/it-certifications
+219,"The Science of Well-Being
+Yale University",/course/the-science-of-well-being-10346
+220,"Introducción a la gestión de proyectos
+Universitat Politècnica de València",/course/edx-introduccion-a-la-gestion-de-proyectos-4870
+221,"Lean Production
+Technische Universität München (Technical University of Munich)",/course/edx-lean-production-8447
+222,subject,/subjects
+223,university,/universities
+224,Learn more,/help/moocs
+225,Free Certificates,https://www.classcentral.com/report/free-certificates/ 
+226,Ivy League,/collection/ivy-league-moocs 
+227,Stanford,/university/stanford 
+228,Best of All Time,/collection/top-free-online-courses 
+229,Computer Science,/subject/cs 
+230,Sustainability,/collection/sustainability-online-courses 
+231,MIT,/university/mit 
+232,Google,/institution/google 
+233,Amazon,/institution/amazon 
+234,Business,/subject/business 
+235,Best Courses Guides,https://www.classcentral.com/report/category/best-courses/ 
+236,Deals and Discounts,https://www.classcentral.com/report/online-learning-deals/ 
+237,Harvard University,/university/harvard
+238,Stanford University,/university/stanford
+239,IIT Kharagpur,/university/iit-kharagpur
+240,MIT,/university/mit
+241,Rice University,/university/rice
+242,IIT Madras,/university/iitm
+243,Columbia University,/university/columbia
+244,Cornell University,/university/cornell
+245,U. of Edinburgh,/university/edinburgh
+246,Purdue University,/university/purdue
+247,U. of Pennsylvania,/university/penn
+248,Duke University,/university/duke
+249,U. of Michigan,/university/umich
+250,Browse universities,/universities
+251,Coursera,/provider/coursera
+252,edX,/provider/edx
+253,FutureLearn,/provider/futurelearn
+254,Udemy,/provider/udemy
+255,Swayam,/provider/swayam
+256,LinkedIn Learning,/provider/linkedin-learning
+257,Skillshare,/provider/skillshare
+258,Browse providers,/providers
+259,Google,/institution/google
+260,Amazon,/institution/amazon
+261,Microsoft,/institution/microsoft
+262,IBM,/institution/ibm
+263,Smithsonian,/institution/smithsonian
+264,United Nations,/institution/united-nations
+265,British Council,/institution/british-council
+266,Browse institutions,/institutions
+267,,/collection/top-free-online-courses
+268,,https://www.classcentral.com/report/best-free-online-courses-2022/
+269,View rankings,/rankings
+270,free account,/signup
+271,RSS Feed,https://www.classcentral.com/report/feed/
+272,,https://www.classcentral.com/report/harvard-cs50-guide/
+273,Harvard CS50 Guide: How to Pick the Right Course (with Free Certificate),https://www.classcentral.com/report/harvard-cs50-guide/
+274,By Manoel Cortes Mendez,https://www.classcentral.com/report/author/manoel/
+275,Massive List of Chinese Online Course Platforms in 2023,https://www.classcentral.com/report/chinese-mooc-platforms/
+276,By Rui Ma,https://www.classcentral.com/report/author/ruima/
+277,"FutureLearn Under New Leadership Expands Paywall, Restricts Course Binging",https://www.classcentral.com/report/futurelearn-expands-paywall/
+278,By Pat Bowden,https://www.classcentral.com/report/author/pat-bowden/
+279,"202K Courses, 662M Enrollments: Breaking Down Udemy’s Massive Catalog",https://www.classcentral.com/report/udemy-by-the-numbers/
+280,By Dhawal Shah,https://www.classcentral.com/report/author/dhawal/
+281,"Domestika, the Online Learning Unicorn, Closes Global Offices and Downsizes Staff by 40%",https://www.classcentral.com/report/domestika-layoffs/
+282,By Dhawal Shah,https://www.classcentral.com/report/author/dhawal/
+283,"Thinkific Lays Off 75 More Employees, After the 100 of Last March",https://www.classcentral.com/report/thinkific-layoffs/
+284,By Dhawal Shah,https://www.classcentral.com/report/author/dhawal/
+285,"Udemy CEO to Retire, Replaced by President of Udemy Business",https://www.classcentral.com/report/udemy-new-ceo/
+286,By Dhawal Shah,https://www.classcentral.com/report/author/dhawal/
+287,Harvard CS50 in 2023: How to Get a Free Certificate,https://www.classcentral.com/report/cs50-free-certificate/
+288,By Manoel Cortes Mendez,https://www.classcentral.com/report/author/manoel/
+289,2022 Year in Review: The “New Normal” that Wasn’t,https://www.classcentral.com/report/2022-year-in-review/
+290,By Dhawal Shah,https://www.classcentral.com/report/author/dhawal/
+291,,https://www.classcentral.com/report/best-japanese-courses/
+292,10 Best Japanese Courses,https://www.classcentral.com/report/best-japanese-courses/
+293,,https://www.classcentral.com/report/best-erlang-courses/
+294,7 Best Erlang Courses,https://www.classcentral.com/report/best-erlang-courses/
+295,,https://www.classcentral.com/report/best-css-animation-courses/
+296,10 Best CSS Animation Courses,https://www.classcentral.com/report/best-css-animation-courses/
+297,,https://www.classcentral.com/report/best-asl-courses/
+298,10 Best American Sign Language (ASL) Courses,https://www.classcentral.com/report/best-asl-courses/
+299,,https://www.classcentral.com/report/best-kubernetes-courses/
+300,10 Best Kubernetes Courses,https://www.classcentral.com/report/best-kubernetes-courses/
+301,More on The Report,https://www.classcentral.com/report/
+302,,https://www.classcentral.com/report/udemy-top-courses/
+303,,https://www.classcentral.com/report/india-online-degrees/
+304,,https://www.classcentral.com/report/mooc-based-masters-degree/
+305,,https://www.classcentral.com/report/list-of-mooc-based-microcredentials/
+306,,https://www.classcentral.com/collection/ivy-league-moocs
+307,,https://www.classcentral.com/report/most-popular-online-courses/
+308,Browse collections,/collections
+309,Home,/
+310,Browse by subject,/subjects
+311,Computer Science,/subject/cs
+312,Psychology,/subject/psychology
+313,Cybersecurity,/subject/cybersecurity
+314,Health,/subject/health
+315,Law,/subject/law
+316,Accounting,/subject/accounting
+317,Web Development,/subject/web-development
+318,Browse by provider,/providers
+319,Coursera,/provider/coursera
+320,edX,/provider/edx
+321,FutureLearn,/provider/futurelearn
+322,Udacity,/provider/udacity
+323,Swayam,/provider/swayam
+324,Udemy,/provider/udemy
+325,LinkedIn Learning,/provider/linkedin-learning
+326,Browse by university,/universities
+327,Harvard,/university/harvard
+328,Stanford,/university/stanford
+329,Georgia Tech,/university/gatech
+330,University of Michigan,/university/umich
+331,Purdue University,/university/purdue
+332,Duke University,/university/duke
+333,IIT Madras,/university/iitm
+334,Browse by institution,/institutions
+335,Google,/institution/google
+336,Microsoft,/institution/microsoft
+337,IBM,/institution/ibm
+338,Amazon,/institution/amazon
+339,Linux Foundation,/institution/linuxfoundation
+340,British Council,/institution/british-council
+341,Salesforce,/institution/salesforce
+342,Rankings,/rankings
+343,Best Online Courses of All Time,/collection/top-free-online-courses
+344,Best Online Courses of the Year,https://www.classcentral.com/report/best-free-online-courses-2022/
+345,Most Popular Courses of All Time,https://www.classcentral.com/report/most-popular-online-courses/
+346,Most Popular Courses of the Year,https://www.classcentral.com/report/most-popular-courses-2023/ 
+347,250 Top FREE Coursera Courses of All Time,https://www.classcentral.com/report/coursera-top-courses/
+348,100 Top FREE edX Courses of All Time,https://www.classcentral.com/report/edx-top-courses/
+349,250 Top Udemy Courses of All Time,https://www.classcentral.com/report/udemy-top-courses/
+350,The Report by Class Central,/report/
+351,RSS Feed,https://www.classcentral.com/report/feed/
+352,"The ""New Normal"" that Wasn't",https://www.classcentral.com/report/2022-year-in-review/
+353,DDoS Attack on Class Central,https://www.classcentral.com/report/class-central-ddos-attack/
+354,500+ Online Degrees in India,https://www.classcentral.com/report/india-online-degrees/
+355,Harvard's CS50 Free Certificate Guide,https://www.classcentral.com/report/cs50-free-certificate/
+356,How Open University Works,https://www.classcentral.com/report/open-university-insiders-perspective/
+357,Free Certificates & Courses,https://www.classcentral.com/report/free-certificates/
+358,700+ Free Google Certificates,https://www.classcentral.com/report/google-free-certificates/
+359,Free LinkedIn Learning Certificates,https://www.classcentral.com/report/linkedin-learning-free-learning-paths/
+360,1600+ Free Coursera Courses,https://www.classcentral.com/report/coursera-free-online-courses/
+361,Ivy League Online Courses,https://www.classcentral.com/collection/ivy-league-moocs/
+362,175+ Free Writing Online Courses,https://www.classcentral.com/report/writing-free-online-courses/
+363,About Class Central,/about
+364,Facebook,https://www.facebook.com/classcentral
+365,Twitter,https://www.twitter.com/classcentral
+366,LinkedIn,https://www.linkedin.com/company/classcentral
+367,YouTube,https://www.youtube.com/classcentral
+368,Privacy Policy,/about/privacy-policy
+369,About Us,/about
+370,Join Us,/about/careers
+371,Help Center,/help
+372,Contact Us,/contact
+373,Facebook,http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.classcentral.com%2F
+374,Twitter,https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.classcentral.com%2F&text=&via=classcentral
+375,Email,/cdn-cgi/l/email-protection#516e2224333b3432256c77303c216a333e35286c74636139252521227462107463177463172626267f323d30222232343f2523303d7f323e3c746317
